@@ -6,11 +6,17 @@ The script doesn't use any external solutions, just standard components.
 For Example:
 
 === XLSX Reader Report ===
+
 File: test.xlsx
+
 Full path: C:\test.xlsx
+
 File size: 8.602 bytes
+
 Sheet: sheet1
+
 Started at: 2025-09-08 09:58:03
+
 
 Opening XLSX file...
 Loading shared strings...
