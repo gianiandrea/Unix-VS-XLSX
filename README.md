@@ -40,9 +40,8 @@ Shared strings count: 30
 
 === Data Preview (First 10 rows) ===
 
-Row 001: Titolo1 | Titolo2 | Titolo3 | Titolo4 | Titolo5
-
-Row 002: A1 | A2 | A3 | A4 | A5
+Row 001: Titolo1 | Titolo2 | Titolo3 | Titolo4 | Titolo5  
+Row 002: A1 | A2 | A3 | A4 | A5  
 
 Row 003: B1 | B2 | B3 | B4 | B5
 
