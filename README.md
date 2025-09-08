@@ -7,35 +7,24 @@ _For Example:_
 
 === XLSX Reader Report ===
 
-File: test.xlsx
-
-Full path: C:\test.xlsx
-
-File size: 8.602 bytes
-
-Sheet: sheet1
-
-Started at: 2025-09-08 09:58:03
-
-
+File: test.xlsx  
+Full path: C:\test.xlsx  
+File size: 8.602 bytes  
+Sheet: sheet1  
+Started at: 2025-09-08 09:58:03  
 
 Opening XLSX file...
 
-Loading shared strings...
-
-Loading worksheet: sheet1...
+Loading shared strings...  
+Loading worksheet: sheet1...  
 
 === Statistics ===
 
-Reading time: 126 ms
-
-Total rows: 6
-
-Maximum columns: 5
-
-Total cells: 30
-
-Shared strings count: 30
+Reading time: 126 ms  
+Total rows: 6  
+Maximum columns: 5  
+Total cells: 30  
+Shared strings count: 30  
 
 
 === Data Preview (First 10 rows) ===
