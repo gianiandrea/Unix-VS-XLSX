@@ -12,9 +12,7 @@ Full path: C:\test.xlsx
 File size: 8.602 bytes  
 Sheet: sheet1  
 Started at: 2025-09-08 09:58:03  
-
 Opening XLSX file...
-
 Loading shared strings...  
 Loading worksheet: sheet1...  
 
